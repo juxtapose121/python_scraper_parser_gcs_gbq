@@ -1,0 +1,6 @@
+selenium==3.14
+tomli==1.2.3
+bs4==0.0.1
+numpy==1.19
+pandas==0.25.3
+autopep8==2.0
